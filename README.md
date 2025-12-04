@@ -1,15 +1,3 @@
-Here is the **final, production-ready `README.md`** for **YOJO Gradle Plugin**, fully aligned with your working configuration, the actual codebase (`project_contents.txt`), and **written entirely in English**.
-
-It includes:
-- ✅ Accurate Groovy + Kotlin DSL (with `create("main")`, `register("api")`, `specName(...)`, `enable(true)`, etc.)
-- ✅ Full attribute reference (every config option, with purpose and examples)
-- ✅ AsyncAPI feature support table
-- ✅ Realistic examples (`pathForGenerateMessage`, `removeSchema`, `x-enumNames`, `realization`, inheritance)
-- ✅ Multi-spec, Lombok, validation, enum handling details
-- ✅ All official badges (Maven Central, Gradle Plugin Portal, JDK 17+, License, etc.)
-
----
-
 # 🚀 YOJO Gradle Plugin
 **AsyncAPI → Java DTO Generator for Gradle**  
 ✅ Multi-spec ✅ AsyncAPI v2.6/v3.0 ✅ Lombok ✅ Polymorphism ✅ Validation ✅ Enums with Descriptions
